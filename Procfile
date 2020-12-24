@@ -1,1 +1,1 @@
-web: gunicorn django_project.wsgi
+web: gunicorn News_scraping_project.wsgi
