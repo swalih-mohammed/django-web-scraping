@@ -26,7 +26,7 @@ SECRET_KEY = 'x8pjg4!@v!csuw)1d-%&z)=24^^chn@=xncs#$9!@@zw0c$)ls'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://django-web-scraping.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['django-web-scraping.onrender.com', '127.0.0.1']
 
 
 # Application definition
